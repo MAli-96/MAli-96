@@ -8,4 +8,4 @@ I'm passionate about healthcare & tech and would relish an opportunity to make a
 
 - 🌱 I’m currently learning JavaScript (including Node.js), CompSci fundamentals (Big O, Arrays, Linked Lists, OOP, Stacks/Queues etc.) and some Python! Anything to help me to become a better engineer/developer.
 
-- ⚡ Fun fact: I love flying & hoping to get my pilot's license in the near future!
+- ⚡ Fun fact: I love flying (racked up a few hours on a simulator) & hoping to get my private pilot's license in the near future!
